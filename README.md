@@ -18,7 +18,7 @@ Git Clone https://github.com/Devionne24/OpSys-Assignment-2.git
 ```
 2. Compile and then execute the program
 ```
-$ g++ bankersAlgorithm.cpp -o bank
+$ g++ bankersAlgorithm.cpp -o banker
 $ ./bank
 ```
 
